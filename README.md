@@ -1,4 +1,4 @@
-      # Desify - Mood-Based Music Recommendation
+ # Desify - Mood-Based Music Recommendation
 
 A modern web application that recommends music based on your current mood using React and Vite.
 
